@@ -1,0 +1,8 @@
+PYTHON 3.7
+
+# Coregistration
+
+WORK IN PROGRESS.
+this package is used for registration of one image to another one. the  module:
+
+* Manual coregistration(`coregister_controlpoints_gui.py`): this could be used in whether there is small or large number of features available. The user identifies the tie points .
